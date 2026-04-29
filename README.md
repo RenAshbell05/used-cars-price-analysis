@@ -1,5 +1,3 @@
-# Sprint-7
-
 # Proyecto: Análisis de anuncios de coches
 
 Esta es una aplicación web hecha con **Streamlit** que permite:
